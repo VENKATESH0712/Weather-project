@@ -1,3 +1,6 @@
 This is my first project
-It is used to know weather related information
-of various regions.
+It is used to know weather related information of various regions.
+Using openweathermap API we can obtain weather information,
+create account in openweathermap and you can see your
+API key and URL information (it may take while to activate your API request, typically in minutes).
+After getting them successfully fill in the provided fields (inside the Script tag). 
